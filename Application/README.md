@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dopefolio 🔥
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
@@ -786,3 +787,7 @@ Special thanks to [Jacobo Martínez](https://github.com/cobidev) for inspiring m
 
 This project is licensed under the  **GPL-3.0** License - see the [LICENSE](LICENSE) file for details
 
+=======
+# Repository for the public website for John Marcus Aziz
+Main repository for https://www.johnmarcusaziz.com
+>>>>>>> dcb8361033baefb861b132b0c2e30b23ebf3ed99
