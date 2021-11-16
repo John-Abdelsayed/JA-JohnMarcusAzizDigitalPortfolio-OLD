@@ -140,7 +140,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
           class="header__logo-img"
         />
       </div>
-      <span class="header__logo-sub">John Doe</span>
+      <span class="header__logo-sub">John Marcus Aziz</span>
     </div>
     <div class="header__main">
       <ul class="header__links">
@@ -201,7 +201,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
 <!-- **** Hero Section of Homepage **** -->
 <section class="home-hero">
   <div class="home-hero__content">
-    <h1 class="heading-primary">Hey, My name is John Doe</h1>
+    <h1 class="heading-primary">Hey, My name is John Marcus Aziz</h1>
     <div class="home-hero__info">
       <p class="text-primary">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic facilis
@@ -293,7 +293,7 @@ Go to `/index.html` and fill your information, there are 6 sections:
         <div class="about__content-details">
           <p class="about__content-details-para">
             Hey! It's
-            <strong>John Doe</strong>
+            <strong>John Marcus Aziz</strong>
             and I'm a <strong> Frontend Web Developer </strong> located in Los
             Angeles. I've done
             <strong> remote </strong>
@@ -560,7 +560,7 @@ If you like to know how to submit forms so you can receive the form details in y
         </div>
       </div>
       <div class="main-footer__row main-footer__row-2">
-        <h4 class="heading heading-sm text-lt">John Doe</h4>
+        <h4 class="heading heading-sm text-lt">John Marcus Aziz</h4>
         <p class="main-footer__short-desc">
           Lorem ipsum dolor sit amet consectetur adipisicing elit facilis
           tempora explicabo quae quod deserunt
